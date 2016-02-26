@@ -1,0 +1,28 @@
+name: The Lincoln Project
+favicon: null
+layout_spectrum: 0.2556309252977371
+typography_spectrum: 0.37649664282798767
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7710240834858268
+  lightness: 0.7954191600438207
+  saturation: 0.7447641871403903
+  rhythmicContrast: 0.05638009705580771
+purpose: []
